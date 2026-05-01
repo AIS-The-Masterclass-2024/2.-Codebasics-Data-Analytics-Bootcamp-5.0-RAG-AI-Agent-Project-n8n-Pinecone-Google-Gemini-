@@ -65,6 +65,10 @@ You are a friendly and helpful **Codebasics Bootcamp 5.0** representative, here 
 
 ---
 
+[![Watch the Project](https://raw.githubusercontent.com/AIS-The-Masterclass-2024/2.-Codebasics-Data-Analytics-Bootcamp-5.0-RAG-AI-Agent-Project-n8n-Pinecone-Google-Gemini-/main/Thumbnail.png)](https://www.youtube.com/watch?v=sHO8K0hDha0)
+
+---
+
 ### **Workflow 2 — RAG AI Agent**
 
 ![RAG AI Agent](https://github.com/SachinSavkare/Codebasics-Data-Analytics-Bootcamp-5.0-RAG-AI-Agent-Project-n8n-Pinecone-Google-Gemini-/blob/main/Worflow%202.JPG)
